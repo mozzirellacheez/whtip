@@ -1,0 +1,19 @@
+p{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "afrc";
+    font-style: initial;
+    font-stretch: normal;
+}
+
+body{
+     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+h4{
+    font-size: 25px;
+}
+
+h5{
+    font-size: 25px;
+}
